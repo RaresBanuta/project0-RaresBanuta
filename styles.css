@@ -1,0 +1,106 @@
+#search_bar{
+  display: inline-block;
+  margin-left: 38%;
+  margin-right: 38%;
+  margin-top: 0;
+}
+#google_search_index{
+  margin-left: 20px;
+  margin-top: 10px;
+  padding: 4px 7px;
+  background-color: rgb(239, 239, 239);
+  border: 0px;
+  border-radius: 8px;
+}
+#google_search_image{
+  margin-left: 105px;
+  margin-top: 10px;
+  padding: 4px 7px;
+  background-color: rgb(239, 239, 239);
+  border: 0px;
+  border-radius: 8px;
+}
+#google_search_advanced{
+  display: inline-block;
+  margin: 30px 10px;
+  padding: 10px 10px;
+  border: 0;
+  border-radius: 6px;
+  background-color: rgb(121, 184, 252);
+}
+#feeling_lucky{
+  margin-left: 40px;
+  margin-top: 10px;
+  padding: 4px 7px;
+  background-color: rgb(239, 239, 239);
+  border: 0px;
+  border-radius: 8px;
+}
+#google_logo_index{
+  margin-left: 42%;
+  margin-right: 42%;
+  margin-top: 18%;
+  width:200px;
+  height:150px;
+  display: inline-block;
+}
+#google_logo_advanced{
+  width: 100px;
+  height: 70px;
+  display: inline-block;
+}
+#google_image_logo{
+  margin-left: 40%;
+  margin-right: 42%;
+  margin-top: 18%;
+  width:250px;
+  height:120px;
+  display: inline-block;
+}
+#image_page{
+  text-decoration: none;
+  float: right;
+  margin-right: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 5px 15px;
+}
+#advanced_page{
+  text-decoration: none;
+  float: right;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 5px 15px;
+}
+#index_page{
+  text-decoration: none;
+  float: right;
+  margin-right: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 5px 15px;
+}
+#index_page:hover{
+  background-color: lightgrey;
+  text-decoration: underline;
+}
+#image_page:hover{
+  background-color: lightgrey;
+  text-decoration: underline;
+}
+#advanced_page:hover{
+  background-color: lightgrey;
+  text-decoration: underline;
+}
+#header_advanced{
+  display: inline-block;
+}
+h5{
+  margin-left: 17px;
+  display: inline-block;
+  margin-right: 30px;
+}
+#content_advanced{
+  border: 1px solid black;
+  display: block;
+}
